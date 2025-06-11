@@ -1,28 +1,16 @@
-# Real-Time-Indian-Sign-Language-Recognition-Sytem
-This is a Final Year BE Project in Machine Learning titled "Real Time Indian Sign Language Recognition using Convolutional Neural Network". Created a ISL prediciton and recognition system using a 4 layer CNN Model that I engineered myself. The dataset for all 26 letters A-Z was captured by me and my team and was preprocesses by us before being fed into the network. Here is our model specifics:- Our CNN consists fof 4 layers, 4 convolutional layers and 3 dense layers. the layers went from 32, 64, 128, 256 filters respectively. This model for us yielded the best results and accuracies for all letters. We made use of Adam Optimizer. Real time prediction was done using tkinter package.
+For Diploma Final Year Project we created a Interactive Visualizer Website to help Visualize DSA Concepts like Stack,Queue and Algorithms, through visualizations coded by us. We mainly use HTML, CSS, PHP, Javascript and Bootstrap for this project.
+We mainly have two modules - User and Admin, and a Quiz section. User can Login/ Register, understand concepts via visualizations provided and take quizzes. There is also a leaderboard of all registered users and their pints on the leaderboard. Admin can create quizzes, add quiz sections and question/answers, respond to queries send by user and also email specific users via the website.
+The quiz also has a timer and the admin can set timer too for each quiz provided. Our website was hosted on localhost and used Xampp, PHPMyadmin for backend.
 
-![image](https://github.com/user-attachments/assets/17043929-8726-481d-a738-4094c340c96d)
-
-Here are the accuracies for all letters:
-
-![image](https://github.com/user-attachments/assets/3bc24029-7b46-4634-968c-97b5903a4d7b)
-![image](https://github.com/user-attachments/assets/50bdbf6e-9d48-4bcc-8e4e-0b6fee065dd9)
-![image](https://github.com/user-attachments/assets/b32bfea9-338d-46f6-9965-480ee35011e6)
-![image](https://github.com/user-attachments/assets/b62313e2-2911-418d-8752-9e26395c692b)
-
-
-Further, i added screenshots for our UI for this project. After the letters our predicted, you press a button to display the letter and hence create a word. Accuracies are shown as well. Text to speech button converts the displayed txt to speech and the clear button clears the text.
-
-![image](https://github.com/user-attachments/assets/834064cf-5f2b-4e98-8c99-179533552722)
-![screengrab of prject for git](https://github.com/user-attachments/assets/8a212368-c142-49be-8846-bb9dfd0b074f)
-
-Here are our accuracies for our testing and validation dataset:
-
-![image](https://github.com/user-attachments/assets/e45880cd-801e-41ff-9e35-df1803e1f720)
-
-Our Training and Validation Loss and Accuracy graphs graphs.
-
-![image](https://github.com/user-attachments/assets/983e5b5c-1996-49c6-9b8e-85f70b9c1b4a)
-
-![image](https://github.com/user-attachments/assets/2aef1466-36a8-4cea-b6a1-b09323ca9a30)
-
+Screenshots of our project and website are provided below:-
+![image](https://github.com/user-attachments/assets/60dd9a72-bcc4-49ae-be88-235fff55bb61)
+![image](https://github.com/user-attachments/assets/f1f40d8c-55c5-4dfd-9c4e-2db421ee6a0f)
+![image](https://github.com/user-attachments/assets/b8592595-8e74-4ec0-be5e-6b377959dbbb)
+![image](https://github.com/user-attachments/assets/d995ad82-0c6b-4fb8-8207-4850948e0333)
+![image](https://github.com/user-attachments/assets/6839d329-e764-48b9-8f51-a876ba8c54cc)
+![image](https://github.com/user-attachments/assets/9d7886fe-e2d2-463c-85bb-b8cee60837e7)
+![image](https://github.com/user-attachments/assets/87d052c0-074a-49e9-8c95-d799469456f8)
+![image](https://github.com/user-attachments/assets/394f34f6-fbde-43d4-81bb-f81fcbd982c4)
+![image](https://github.com/user-attachments/assets/8c0a52e6-ee44-401d-9d39-dd38c1ccfaa9)
+![image](https://github.com/user-attachments/assets/966273e8-ed31-4afa-b09a-395acef4b7c3)
+![image](https://github.com/user-attachments/assets/b3fdf655-3efd-40b6-b260-b827634a0cdc)
