@@ -20,7 +20,7 @@ Here are our accuracies for our testing and validation dataset:
 
 ![image](https://github.com/user-attachments/assets/e45880cd-801e-41ff-9e35-df1803e1f720)
 
-Our Training and Validation Loss graphs.
+Our Training and Validation Loss and Accuracy graphs graphs.
 
 ![image](https://github.com/user-attachments/assets/983e5b5c-1996-49c6-9b8e-85f70b9c1b4a)
 
