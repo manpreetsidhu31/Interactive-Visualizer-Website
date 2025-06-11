@@ -3,7 +3,8 @@ This is a Final Year BE Project in Machine Learning titled "Real Time Indian Sig
 
 ![image](https://github.com/user-attachments/assets/17043929-8726-481d-a738-4094c340c96d)
 
-Here are the accuracies for all letters
+Here are the accuracies for all letters:
+
 ![image](https://github.com/user-attachments/assets/3bc24029-7b46-4634-968c-97b5903a4d7b)
 ![image](https://github.com/user-attachments/assets/50bdbf6e-9d48-4bcc-8e4e-0b6fee065dd9)
 ![image](https://github.com/user-attachments/assets/b32bfea9-338d-46f6-9965-480ee35011e6)
